@@ -1,2 +1,0 @@
-The output images are saved in this folder. 
-A description is also included in README about what each image shows.
